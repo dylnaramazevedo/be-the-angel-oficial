@@ -4,7 +4,7 @@
 
 <h2>Um sistema para conectar pessoas dispostas a ajudar a ONGs que precisam dessa ajuda.</h2>
 
-<p>O objetivo era criar uma aplicação chamada Be The Angel, onde ONGS cadastram seus casos para que pessoas possam acha-los facilmente e entrar em contato para doar, tornando-se heróis!</p>
+<p>O objetivo é criar uma aplicação chamada Be The Angel, onde ONGS cadastram seus casos para que pessoas possam acha-los facilmente e entrar em contato para doar, tornando-se heróis!</p>
 
 <p><strong>Para rodar a aplicação:</strong></p>
 <p>OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo</p>
